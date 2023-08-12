@@ -1,0 +1,1 @@
+The purpose of this repository is to refactor the code for our group project - The Typing Trials. We hope to streamline the code so it is more organized and clean so we can continue to build off of it for future game projects.
